@@ -1,0 +1,154 @@
+/* font family  */
+.font-family-workSans{
+  font-family: workSans;
+}
+
+
+/* text sizes */
+.txt-11{
+  font-size: 11px;
+}
+.txt-12{
+  font-size: 12px;
+}
+.txt-13{
+  font-size: 13px;
+}
+.txt-14{
+  font-size: 14px;
+}
+.txt-15{
+  font-size: 15px;
+}
+.txt-16{
+  font-size: 16px;
+}
+.txt-17{
+  font-size: 17px;
+}
+.txt-18{
+  font-size: 18px;
+}
+.txt-19{
+  font-size: 19px;
+}
+.txt-20{
+  font-size: 20px;
+}
+.txt-21{
+  font-size: 21px;
+}
+.txt-22{
+  font-size: 22px;
+}
+.txt-23{
+  font-size: 23px;
+}
+.txt-24{
+  font-size: 24px;
+}
+.txt-48{
+  font-size: 48px;
+}
+.txt-55{
+  font-size: 40px;
+}
+
+@media (min-width: 640px){
+  .txt-55{
+    font-size: 55px;
+  }
+}
+
+
+
+/* text colors */
+.txt-000{
+  color: #000;
+}
+.txt-FFF{
+  color: #FFF;
+}
+.txt-2947A9{
+  color: #2947A9;
+}
+.txt-14171F{
+  color: #14171F;
+}
+.txt-F9995D{
+  color: #F9995D;
+}
+.txt-292E3D{
+  color: #292E3D;
+}
+.txt-3D445C{
+  color: #3D445C;
+}
+.txt-858EAD{
+  color: #858EAD;
+}
+.txt-F6F8F7{
+  color: #F6F8F7;
+}
+.txt-E01313{
+  color: #E01313;
+}
+
+
+
+/* font weights */
+.fw-300{
+  font-weight: 300;
+}
+.fw-400{
+  font-weight: 400;
+}
+.fw-500{
+  font-weight: 500;
+}
+.fw-600{
+  font-weight: 600;
+}
+.fw-700{
+  font-weight: 700;
+}
+.fw-800{
+  font-weight: 800;
+}
+.fw-900{
+  font-weight: 900;
+}
+
+
+
+/* backgrounds */
+.bg-000{
+  background-color: #000;
+}
+.bg-FFF{
+  background-color: #FFF;
+}
+.bg-2947A9{
+  background-color: #2947A9;
+}
+.bg-14171F{
+  background-color: #14171F;
+}
+.bg-transparent{
+  background-color: transparent;
+}
+.bg-F9995D{
+  background-color: #F9995D;
+}
+.bg-292E3D{
+  background-color: #292E3D;
+}
+.bg-3D445C{
+  background-color: #3D445C;
+}
+.bg-858EAD{
+  background-color: #858EAD;
+}
+.bg-F6F8F7{
+  background-color: #F6F8F7;
+}

@@ -1,0 +1,5 @@
+/* auth  */
+.auth-bg-img{
+    background: linear-gradient(0deg, #858EAD, #858EAD), url('../../../assets/auth/auth-bg-img.jpg');
+    background-blend-mode: multiply;
+}

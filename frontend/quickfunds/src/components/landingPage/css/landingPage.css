@@ -1,0 +1,35 @@
+/* landing page header  */
+
+.landing-page-header-bg{
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.90) 16.58%, rgba(255, 255, 255, 0.00) 72.38%), url('../../../assets/landingPage/header-img.jpg') lightgray 50% / cover no-repeat;
+    height: 90vh;
+}
+
+
+
+
+
+
+/* landing page about us  */
+
+.landing-page-about-us-img-bg{
+    border-radius: 2px;
+    background: url('../../../assets/landingPage/aboutUs-img.jpg') lightgray -159.882px -67.003px / 127.181% 114.349% no-repeat;
+    box-shadow: 0px 20px 24px -4px rgba(17, 24, 39, 0.10), 0px 8px 8px -4px rgba(17, 24, 39, 0.04);  
+    height: 80vh;  
+}
+.landing-page-about-us-fixed-container{
+    /* position: absolute; */
+    width: 100%;
+    min-height: 360px;
+    opacity: 1;
+    /* left: 700px; */
+}
+@media (min-width: 850px) {
+    .landing-page-about-us-fixed-container{
+        position: absolute;
+        width: 458px;
+        min-height: 360px;
+        left: 700px;
+    }
+}

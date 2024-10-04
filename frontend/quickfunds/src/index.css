@@ -1,0 +1,21 @@
+@font-face {
+  font-family: workSans;
+  src: url('./assets/fonts/workSans/workSans.ttf');
+}
+
+
+.clickable{
+  cursor: pointer;
+}
+
+button, input{
+  background-color: none;
+  outline: none;
+  border: none;
+}
+
+.bg-img{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
